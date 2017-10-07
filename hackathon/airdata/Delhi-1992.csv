@@ -1,0 +1,55 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+144,January - M011992,Delhi,Delhi,NA,"Residential, Rural and other Areas",28.2,38.8,NA,365
+146,January - M011992,Delhi,Delhi,NA,"Residential, Rural and other Areas",76.8,72.4,NA,735
+145,January - M011992,Delhi,Delhi,NA,Industrial Area,48.7,41.2,NA,NA
+56,January - M011992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.3,40.1,NA,186
+58,January - M011992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,7.9,29.4,NA,357
+55,January - M011992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,13.8,21.8,NA,275
+57,January - M011992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,31.7,21.6,NA,251
+60,January - M011992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",9.7,24.3,NA,335
+59,January - M011992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",17.1,30.2,NA,378
+56,February - M021992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,23,28.9,NA,240
+58,February - M021992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,8,26.4,NA,330
+55,February - M021992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.3,43.7,NA,283
+57,February - M021992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,25,21,NA,299
+60,February - M021992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",10.7,22.3,NA,236
+59,February - M021992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",10.7,24.9,NA,355
+56,March - M031992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,30.5,53.1,NA,262
+58,March - M031992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,7,28.2,NA,494
+55,March - M031992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.7,26,NA,314
+57,March - M031992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,36.7,25.2,NA,380
+60,March - M031992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",9.8,25,NA,304
+59,March - M031992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",12.2,29.6,NA,419
+56,April - M041992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.7,28.6,NA,358
+58,April - M041992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16,26.3,NA,391
+55,April - M041992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,18.4,30.5,NA,362
+57,April - M041992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,37.4,40.2,NA,485
+60,April - M041992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",9.7,17.1,NA,302
+59,April - M041992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",13.6,31.3,NA,390
+56,May - M051992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16,27.3,NA,301
+58,May - M051992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,20.4,32.9,NA,411
+55,May - M051992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.9,32.6,NA,375
+57,May - M051992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,39.8,40.1,NA,536
+60,May - M051992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.8,23.9,NA,367
+59,May - M051992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.5,32.9,NA,392
+144,May - M051992,Delhi,Delhi,NA,"Residential, Rural and other Areas",9.4,22.1,NA,613
+146,May - M051992,Delhi,Delhi,NA,"Residential, Rural and other Areas",14.3,28.9,NA,1232
+145,May - M051992,Delhi,Delhi,NA,Industrial Area,20.3,20.5,NA,170
+56,June - M061992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,20.3,47.5,NA,720
+58,June - M061992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,24.5,39.9,NA,558
+55,June - M061992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,21.3,41.6,NA,563
+57,June - M061992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,31.6,34.3,NA,642
+60,June - M061992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",17,27.2,NA,609
+59,June - M061992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",18.2,33.8,NA,676
+56,July - M071992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,18.2,32.6,NA,367
+58,July - M071992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,18.6,50.9,NA,334
+55,July - M071992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,18.1,27.4,NA,357
+57,July - M071992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,24,29.5,NA,604
+60,July - M071992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.7,23.6,NA,438
+59,July - M071992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.2,30.9,NA,343
+56,August - M081992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,12.8,26.1,NA,254
+58,August - M081992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,24.7,35.1,NA,204
+55,August - M081992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,19.5,31.1,NA,280
+57,August - M081992,Delhi,Delhi,Central Pollution Control Board,Industrial Area,28.5,29.2,NA,555
+60,August - M081992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",21.7,20,NA,337
+59,August - M081992,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",19.6,33.4,NA,245

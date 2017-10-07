@@ -1,0 +1,118 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+55,January_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.5,38,NA,444
+55,February_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15,37.2,NA,341
+55,March_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.1,36.8,NA,364
+55,April_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.1,37.4,NA,387
+55,May_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,14.9,36.5,NA,320
+55,June_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.6,37.3,NA,289
+55,July_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.6,35.6,NA,315
+55,August_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.8,35.4,NA,284
+55,September_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.2,30.4,NA,367
+55,October_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,19.6,41.3,NA,425
+55,November_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,14.3,38.2,NA,577
+55,December_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.3,38.5,NA,600
+55,Annual_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.9,37,NA,398
+56,January_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.6,28.4,NA,327
+56,February_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,27.6,36.8,NA,411
+56,March_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.7,27.1,NA,320
+56,April_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,15.6,28.8,NA,384
+56,May_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.6,25.6,NA,449
+56,June_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.6,24.8,NA,457
+56,July_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.6,28.7,NA,363
+56,August_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,18.7,26.9,NA,426
+56,September_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.3,39,NA,328
+56,October_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.1,26.3,NA,407
+56,November_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.8,25.2,NA,562
+56,December_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.1,24.8,NA,427
+56,Annual_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.7,28.5,NA,406
+57,January_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,25.2,43.2,NA,342
+57,February_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,30.6,37.6,NA,402
+57,March_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,28.1,47.9,NA,330
+57,April_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,25.4,46.6,NA,326
+57,May_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,26.2,47.2,NA,356
+57,June_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,25.4,46.2,NA,344
+57,July_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,26.1,47.4,NA,363
+57,August_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,27.7,54,NA,328
+57,September_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,23,44,NA,359
+57,October_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,25,44,NA,443
+57,November_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,24.3,43.4,NA,431
+57,December_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,24.7,45.2,NA,390
+57,Annual_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,26,45.3,NA,369
+58,January_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,20.7,26.5,NA,358
+58,February_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,23.6,30.5,NA,391
+58,March_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,16.1,20.8,NA,364
+58,April_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,17.6,22.2,NA,338
+58,May_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,23.4,28.1,NA,476
+58,June_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,24,29.5,NA,476
+58,July_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,20.7,25.7,NA,471
+58,August_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,22.1,28.6,NA,407
+58,September_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,21.1,26.6,NA,273
+58,October_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,22.3,27.3,NA,533
+58,November_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,27.8,32.9,NA,639
+58,December_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,25.4,32.4,NA,459
+58,Annual_1995,Delhi,Delhi,Central Pollution Control Board,Industrial Area,22.2,27.6,NA,437
+59,January_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.2,31.1,NA,382
+59,February_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.1,32.1,NA,374
+59,March_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.4,38.2,NA,356
+59,April_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",17.7,39.7,NA,441
+59,May_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",21.9,39.1,NA,531
+59,June_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",21.5,39.4,NA,522
+59,July_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.8,33,NA,403
+59,August_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",20.1,38.9,NA,399
+59,September_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.5,39.6,NA,314
+59,October_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.8,38.9,NA,408
+59,November_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",18.3,38.5,NA,441
+59,December_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",17.5,40.5,NA,463
+59,Annual_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",17.9,37.2,NA,422
+60,January_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",11.7,25.4,NA,273
+60,February_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",12.3,27.4,NA,292
+60,March_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",13.6,28,NA,348
+60,April_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.1,31.5,NA,345
+60,May_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",16.4,33.3,NA,462
+60,June_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.1,30.9,NA,552
+60,July_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",14.6,26.9,NA,448
+60,August_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",13.4,29.1,NA,419
+60,September_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",13.8,26.9,NA,533
+60,October_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",14.4,28.7,NA,392
+60,November_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",17.3,30.1,NA,381
+60,December_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",15.5,28.3,NA,404
+60,Annual_1995,Delhi,Delhi,Central Pollution Control Board,"Residential, Rural and other Areas",14.5,28.9,NA,408
+144,January_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",39.8,95.3,NA,250
+144,February_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",22.7,57.3,NA,244
+144,March_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",22,60.2,NA,249
+144,April_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",20.4,54.3,NA,398
+144,May_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",8.7,64.7,NA,NA
+144,June_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",7.9,39.6,NA,287
+144,July_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",8.6,37.9,NA,101
+144,August_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",12.2,38.1,NA,126
+144,September_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",14.3,54.8,NA,237
+144,October_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",32.9,36.8,NA,372
+144,November_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",10.9,59.5,NA,NA
+144,December_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",69,69.2,NA,620
+144,Annual_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",23.4,57.2,NA,308
+145,January_1995,Delhi,Delhi,NA,Industrial Area,87.2,87.8,NA,746
+145,February_1995,Delhi,Delhi,NA,Industrial Area,32.8,62.9,NA,377
+145,March_1995,Delhi,Delhi,NA,Industrial Area,41.9,55.6,NA,376
+145,April_1995,Delhi,Delhi,NA,Industrial Area,24.8,41.8,NA,425
+145,May_1995,Delhi,Delhi,NA,Industrial Area,13.6,48.6,NA,NA
+145,June_1995,Delhi,Delhi,NA,Industrial Area,28.6,71.5,NA,320
+145,July_1995,Delhi,Delhi,NA,Industrial Area,19.2,36.7,NA,652
+145,August_1995,Delhi,Delhi,NA,Industrial Area,19.6,47,NA,216
+145,September_1995,Delhi,Delhi,NA,Industrial Area,12.6,43.8,NA,376
+145,October_1995,Delhi,Delhi,NA,Industrial Area,22,43.8,NA,566
+145,November_1995,Delhi,Delhi,NA,Industrial Area,21.5,33.1,NA,804
+145,December_1995,Delhi,Delhi,NA,Industrial Area,33.5,52.3,NA,351
+145,Annual_1995,Delhi,Delhi,NA,Industrial Area,30.5,52,NA,475
+146,January_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",127.4,153.3,NA,762
+146,February_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",87.4,152.9,NA,577
+146,March_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",73.5,99.8,NA,406
+146,April_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",17.8,114.9,NA,446
+146,May_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",29.7,117.2,NA,NA
+146,June_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",11.9,81,NA,363
+146,July_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",20.4,62.1,NA,203
+146,August_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",16.3,70.5,NA,97
+146,September_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",18,104.3,NA,483
+146,October_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",15.7,108.7,NA,668
+146,November_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",33.6,142.7,NA,566
+146,December_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",51.5,117.7,NA,562
+146,Annual_1995,Delhi,Delhi,NA,"Residential, Rural and other Areas",43.1,110.8,NA,472
