@@ -5,16 +5,30 @@ from django.views import generic
 
 from django.utils.decorators import method_decorator
 from django.views.decorators.csrf import csrf_exempt
-
+from testing import predict 
 import requests
 import json
+#import urllib2
 import text
+
+
+# Create your views here.
+
+def testing(request):
+	return HttpResponse("Testing successful...")
+
+
+class CommonUrl(generic.View):
+
+	def get(self, request, *args, **kwargs):
+		return HttpResponse("Hello")
+
 
 class ChatBot(generic.View):
 
 	def get(self, request, *args, **kwargs):
 		print self.request.GET
-		if self.request.GET.get('hub.verify_token') == verication_token:
+		if self.request.GET.get('hub.verify_token') == '123456789':
 			return HttpResponse(self.request.GET['hub.challenge'])
 		else:
 			return HttpResponse('Error, invalid token')
@@ -39,16 +53,17 @@ class ChatBot(generic.View):
 
 
 def reply_to_message(user_id, message):
-    access_token = '' #add your access token here
+	access_token = 'EAABtDsMCTOQBADzY7CdSsmfILOyusZCPo4LxqaTIau8ew9ZA5CDwDVGfJycWNamxSHRoZBu0cZALDKrYW2Im1dd8KSdhL5zrw3dCnDWpq7BUNgPSI2m9cMGvi6sYxSszrgYHIOlF7ZCQP8raWmQscYjlVfAJ5utEw3WVPQ9Xi3TaL5Jzj7ugh'
 	url = 'https://graph.facebook.com/v2.6/me/messages?access_token=' + access_token
 
 	resp = generate_response(message)
+	#send_resp = {"recipient":{"id":user_id}, "message":{"text":resp, "attachment":{"type":"image", "payload":{"url": attach_link}}}}
 	send_resp = {"recipient":{"id":user_id}, "message":{"text": resp}}
 	response_msg = json.dumps(send_resp)
 	status = requests.post(url, headers={"Content-Type": "application/json"},data=response_msg)
 	print status.json()
 
-def pollution_index(city, location):
+def pm10(city, location):
 	location = location.strip(' ')
 	b = ''
 	for i in location:
@@ -56,22 +71,19 @@ def pollution_index(city, location):
 			b+='%20'
 		else:
 			b+=i
-	url = 'https://api.openaq.org/v1/measurements?city='+city+'&location='+b+'&date_from=2017-10-01&date_to=2017-10-07&parameter=pm10'
+	url = 'https://api.openaq.org/v1/measurements?city='+city+'&location='+b+'&parameter=pm10'
 	result = requests.get(url).content
 	result = json.loads(result)
+	prediction = predict(result)
 	if result['meta']['found'] == 0:
 		return 'No data found for this location.'
 	else:
-		return result['results'][-1]['value']
+		return 'The pm10 value for this region is ' + str(result['results'][0]['value']) + ' and the predicted pm10 value for next hour is '+str(prediction)
 
 def generate_response(msg):
-	msg= msg.split(',')
-	location=msg[0]
-	city=msg[1]
-	result = pollution_index(city,location)
-	if result != 'No data found for this location.':
-		return 'Hi, The pm10 value for this location is '+str(result)
-	else:
-		return result
-	
+    listy = msg.split(',')
+    location=listy[0]
+    city=listy[1]
+    return pm10(city,location)
+  
 	
