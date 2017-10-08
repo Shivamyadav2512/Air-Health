@@ -19,7 +19,13 @@ We used and compiled previous five years of data from open datagov.in for delhi.
 * Javascript
 
 #### Screeshots -
-![screenshot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/screenshot.png)
+![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/nizamuddin.png)
+
+![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/pitampura.png)
+
+![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/screenshot.png)
+
+![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/performance_townhall.png)
 
 The landing page is accessible at [datazen.tech](http://datazen.tech/).
 
