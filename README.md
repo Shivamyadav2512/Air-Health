@@ -19,12 +19,17 @@ We used and compiled previous five years of data from open datagov.in for delhi.
 * Javascript
 
 #### Screeshots -
+
+Analysis of nizamuddin, Delhi, IN
 ![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/nizamuddin.png)
 
+Analysis of pitampura, Delhi, IN
 ![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/pitampura.png)
 
+Screenshot of messenger bot which is giving the current pm10 value. We can also get the predictions as well.
 ![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/screenshot.png)
 
+Performance Townhall
 ![messenger bot](https://raw.githubusercontent.com/Shivamyadav2512/Air-Health/master/Landing%20Page/images/performance_townhall.png)
 
 The landing page is accessible at [datazen.tech](http://datazen.tech/).
