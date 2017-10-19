@@ -13,10 +13,6 @@ We used and compiled previous five years of data from open datagov.in for delhi.
 #### Tools/Libraries used for messenger chatbot -
 * Django
 
-#### Tools/Libraries used for landing Page - 
-* HTML
-* CSS
-* Javascript
 
 #### Screeshots -
 
